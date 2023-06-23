@@ -1,5 +1,12 @@
 #include "main.h"
 
+/**
+ * print_triangle - entry point
+ * owned by Bwave/Bright Danie
+ * Description: Prints diagonals
+ *@size: size of the triangle
+ * Return: void
+ */
 
 void print_triangle(int size)
 {
